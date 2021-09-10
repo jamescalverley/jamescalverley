@@ -1,6 +1,6 @@
 ### Hello 👋
 
-Incoming Frontend Developer Intern @ Shopify  
+Frontend Developer Intern @ Shopify  
 Toronto, ON :round_pushpin:
 
 ## Connect with me
